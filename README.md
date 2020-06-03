@@ -9,4 +9,4 @@ This system can be usefull for updating projects for raspberry pi in local for p
 
 Client side use libs : sys , pathlib , requests , os
 
-Server side use libs : Flask and os
+Server side use libs : Flask , Flask auto indexer and os
