@@ -8,4 +8,5 @@ In client side you just have to run updater.py with in arguments the ip adress o
 This system can be usefull for updating projects for raspberry pi in local for programming with windows tools for raspberry
 
 Client side use libs : sys , pathlib , requests , os
+
 Server side use libs : Flask and os
